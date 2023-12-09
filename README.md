@@ -7,7 +7,7 @@
 - 🤝 Disponível para colaborar em projetos e ideias inovadoras.
 - ❤️ Quando não estou programando estou jogando.
 
-### 🚀💻 Technologies & Tools:
+### 🚀💻 Tecnologias e ferramentas:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -24,7 +24,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 </div>
 
-### ❤️ Let's get connected:
+### ❤️ Vamos nos conectar:
 Conecte-se comigo em outras redes! Se precisar de ajuda ou tiver dúvidas e sugestões, me mande uma mensagem 😉
 <div> 
 <a href="https://www.instagram.com/alemagori/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
